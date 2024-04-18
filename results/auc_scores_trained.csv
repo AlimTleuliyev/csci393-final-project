@@ -1,0 +1,6 @@
+model,auc_score
+LaBSE,0.7897172263762327
+KazakhBERTmulti,0.732396610419158
+multilingual-e5-base,0.7720080162801674
+kaz-roberta-conversational,0.7382017648311356
+bert-base-multilingual-cased,0.7304266436713027

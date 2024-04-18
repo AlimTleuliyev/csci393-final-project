@@ -1,0 +1,6 @@
+model,params,type
+LaBSE,470926848,bert
+KazakhBERTmulti,162841344,bert
+multilingual-e5-base,278043648,xlm-roberta
+kaz-roberta-conversational,83450880,roberta
+bert-base-multilingual-cased,177853440,bert
